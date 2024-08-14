@@ -12,4 +12,6 @@ R1 with R8
 R2 with R7
 R3 with R6
 R4 with R5
+
+
 5. Resize the final images to dimensions specified by the last four digits of your registration number, ensuring the number is even.
